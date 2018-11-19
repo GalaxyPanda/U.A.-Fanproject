@@ -3,8 +3,15 @@ body {
 }
 
 /* Wallpapers */
-.mainpage{
+.mainpage {
 	background-image: url('../img/my-hero-academia-wallpaper-all-might_614332.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.staffpage {
+	background-image: url('../img/eraserhead-wallpaper.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
