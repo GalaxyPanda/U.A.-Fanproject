@@ -13,4 +13,19 @@
 	background-attachment: fixed;
 }
 
+/*Intro testing */
 
+.intro{
+	padding: 25px;
+
+}
+
+
+.intro p{
+	color: white;
+
+}
+
+.intro h1{
+	color: #FCEF61;
+}
