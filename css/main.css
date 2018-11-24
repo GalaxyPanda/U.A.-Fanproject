@@ -29,3 +29,7 @@
 .intro h1{
 	color: #FCEF61;
 }
+
+.intro a{
+	text-decoration: none;
+}
