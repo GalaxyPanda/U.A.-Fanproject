@@ -1,4 +1,8 @@
-/* Wallpapers */
+body{
+	font-family: 'Bungee', cursive;
+}
+
+	/* Wallpapers */
 .mainpage {
 	background-image: url('../img/my-hero-academia-wallpaper-all-might_614332.png');
 	background-repeat: no-repeat;
