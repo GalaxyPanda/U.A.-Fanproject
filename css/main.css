@@ -12,6 +12,11 @@
 	background-size: cover;
 	background-attachment: fixed;
 }
+/* Navbar */
+#nav:hover{
+	background-color: #969696;
+}
+
 
 /*Intro testing */
 
